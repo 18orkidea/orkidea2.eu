@@ -1,7 +1,7 @@
 ---
-title: Jekyll Serif Theme
+title: Orkidea.eu
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Silver economy, age-tech, envejesimiento e innovación
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Serif - A Jekyll Business Theme.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Orkidea es una butic de consultoria digital centrada en el sector gero asistencial y al futuro de Silver Economy 

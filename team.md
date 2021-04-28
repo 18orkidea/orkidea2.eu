@@ -8,4 +8,4 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Nuestro equipo de cualificados expertos y consultores pueden ayudar a transformar su negocio hacia el futuro de la economia plateada.
