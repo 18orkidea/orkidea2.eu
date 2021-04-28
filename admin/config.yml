@@ -5,8 +5,8 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 media_folder: 'assets/uploads'
 collections:
-  - name: 'includes'
-    label: 'includes'
-    folder: '_includes/'
+  - name: 'services'
+    label: 'services'
+    folder: '_services/'
     fields:
       - { name: Title }
