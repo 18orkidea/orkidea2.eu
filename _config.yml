@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Orkidea.eu'
 
 google_analytics_id: ""
 
@@ -20,10 +20,10 @@ seo:
   meta_og_type: "website"
   meta_og_url: "https://jekyll-serif.netlify.app"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Jekyll Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+  meta_og_description: "Orkidea es una boutique de consultoría digital especializada en el sector gero tecnologico. Asesoramos a empresas que quieren incorporar innovación digital dentro del sector de cuidado de personas mayores"
   meta_twitter_card: "summary"
-  meta_twitter_site: "@zerostaticio"
-  meta_twitter_creator: "@zerostaticio"
+  meta_twitter_site: "@JuanPCorrea"
+  meta_twitter_creator: "@JuanPCorrea"
 
 collections:
   services:

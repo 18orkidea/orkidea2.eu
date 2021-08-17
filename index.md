@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Serif - A Jekyll Business Theme.
 
-Orkidea es una butic de consultoria digital centrada en el sector gero asistencial y al futuro de Silver Economy 
+Orkidea es una butic de consultoria digital centrada en el sector gero asistencial y el futuro de la economia plateada
